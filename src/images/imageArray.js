@@ -17,17 +17,17 @@ import img13 from './shoe-images/13.jpg';
 import img14 from './shoe-images/14.jpg';
 import img15 from './shoe-images/15.jpg';
 
-// import img16 from './shoe-images/16.jpg';
-// import img17 from './shoe-images/17.jpg';
-// import img18 from './shoe-images/18.jpg';
-// import img19 from './shoe-images/19.jpg';
-// import img20 from './shoe-images/20.jpg';
+import img16 from './shoe-images/16.jpg';
+import img17 from './shoe-images/17.jpg';
+import img18 from './shoe-images/18.jpg';
+import img19 from './shoe-images/19.jpg';
+import img20 from './shoe-images/20.jpg';
 
-// import img21 from './shoe-images/21.jpg';
-// import img22 from './shoe-images/22.jpg';
-// import img23 from './shoe-images/23.jpg';
-// import img24 from './shoe-images/24.jpg';
-// import img25 from './shoe-images/25.jpg';
+import img21 from './shoe-images/21.jpg';
+import img22 from './shoe-images/22.jpg';
+import img23 from './shoe-images/23.jpg';
+import img24 from './shoe-images/24.jpg';
+import img25 from './shoe-images/25.jpg';
 
 
 var imageArray = [
@@ -50,17 +50,17 @@ var imageArray = [
   img14, 
   img15,
 
-  // img16, 
-  // img17, 
-  // img18,
-  // img19, 
-  // img20,
+  img16, 
+  img17, 
+  img18,
+  img19, 
+  img20,
 
-  // img21, 
-  // img22, 
-  // img23, 
-  // img24,
-  // img25, 
+  img21, 
+  img22, 
+  img23, 
+  img24,
+  img25, 
 ]
 
 export default imageArray;

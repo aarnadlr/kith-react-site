@@ -143,43 +143,48 @@ const shoeArray = [
 
 {
   img: imageArray[16],
-  brand: "Nike",
-  model: 'AIR MAX 270 "TIGER"',
-  price: 230,
+  brand: "Adidas",
+  model: 'NMD XR1 PK "OG"',
+  price: 185,
   color: "Black",
-  code: "575420 009"
+  code: "BY19 09",
+  year: 2017
 },
 {
   img: imageArray[17],
   brand: "Nike",
-  model: 'AIR MAX 270 "TIGER"',
+  model: 'AIR MAX 1 PREMIUM QS "SAFARI"',
   price: 230,
-  color: "Black",
-  code: "575420 009"
+  color: "Flax",
+  code: "665873 200",
+  year: 2016
 },
 {
   img: imageArray[18],
   brand: "Nike",
-  model: 'AIR MAX 270 "TIGER"',
-  price: 230,
-  color: "Black",
-  code: "575420 009"
+  model: 'AIR VAPORMAX 97 "NEON"',
+  price: 260,
+  color: "Volt",
+  code: "AJ7291 001",
+  year: 2018
 },
 {
   img: imageArray[19],
-  brand: "Nike",
-  model: 'AIR MAX 270 "TIGER"',
-  price: 230,
-  color: "Black",
-  code: "575420 009"
+  brand: "Air Jordan",
+  model: 'AIR JORDAN 6 RETRO NRG G8RD "GATORADE"',
+  price: 325,
+  color: "Pine Green",
+  code: "AJ5986 335",
+  year: 2017
 },
 {
   img: imageArray[20],
-  brand: "Nike",
-  model: 'AIR MAX 270 "TIGER"',
-  price: 230,
-  color: "Black",
-  code: "575420 009"
+  brand: "Adidas",
+  model: 'PW HU HOLI NMD MC "TIE-DYE"',
+  price: 475,
+  color: "Purple",
+  code: "AC7034",
+  year: 2018
 },
 
 
@@ -187,43 +192,48 @@ const shoeArray = [
 
 {
   img: imageArray[21],
-  brand: "Nike",
-  model: 'AIR MAX 270 "TIGER"',
-  price: 230,
-  color: "Black",
-  code: "575420 009"
+  brand: "Adidas",
+  model: 'ADIDAS YEEZY BOOST 350 V2 "FROZEN YELLOW"',
+  price: 705,
+  color: "Sefrye",
+  code: "B375 72",
+  year: 2017
 },
 {
   img: imageArray[22],
-  brand: "Nike",
-  model: 'AIR MAX 270 "TIGER"',
-  price: 230,
-  color: "Black",
-  code: "575420 009"
+  brand: "Air Jordan",
+  model: 'AIR JORDAN 1 RETRO HI OG G8RD "GATORADE"',
+  price: 150,
+  color: "Orange Peel",
+  code: "AJ5997 880",
+  year: 2017
 },
 {
   img: imageArray[23],
-  brand: "Nike",
-  model: 'AIR MAX 270 "TIGER"',
-  price: 230,
-  color: "Black",
-  code: "575420 009"
+  brand: "Air Jordan",
+  model: 'AIR JORDAN 6 RETRO "GOLDEN HARVEST"',
+  price: 180,
+  color: "Golden Harvest",
+  code: "384664 705",
+  year: 2017
 },
 {
   img: imageArray[24],
-  brand: "Nike",
-  model: 'AIR MAX 270 "TIGER"',
-  price: 230,
-  color: "Black",
-  code: "575420 009"
+  brand: "Air Jordan",
+  model: 'AIR JORDAN 1 X OFF-WHITE NRG "OFF WHITE"',
+  price: 2230,
+  color: "White",
+  code: "AJ0818 100",
+  year: 2018
 },
 {
   img: imageArray[25],
-  brand: "Nike",
-  model: 'AIR MAX 270 "TIGER"',
-  price: 230,
+  brand: "Adidas",
+  model: 'PW HUMAN RACE NMD TR "PHARRELL"',
+  price: 610,
   color: "Black",
-  code: "575420 009"
+  code: "AC7188",
+  year: 2017
 },
 
 
