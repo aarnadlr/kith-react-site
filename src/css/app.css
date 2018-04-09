@@ -2,10 +2,10 @@
   /* transition: all .8s ease; */
 }
 
-/* body{
-  background: papayawhip;
-  color: palevioletred;
-} */
+body{
+  background: rgb(240, 240, 240);
+  /* color: palevioletred; */
+}
 .tomato{
   color: tomato;
 }
