@@ -1,0 +1,54 @@
+/* MY PERSONAL MEDIA QUERIES: */
+
+/* 1. Mobile (up to 599): NONE/default */
+
+
+
+
+/* 2. Desktop (600+) */
+
+@media screen and (min-width: 801px) {
+    
+    /* WIDTH IN PIXELS:*/
+    .w10-DT { width: 10px; }
+    .w25-DT { width: 25px; }
+    .w50-DT { width: 50px; }
+    .w75-DT { width: 75px; }
+    .w100-DT { width: 100px; }
+    .w200-DT { width: 200px; }
+    .w300-DT { width: 300px; }
+    .w400-DT { width: 400px; }
+    .w500-DT { width: 500px; }
+    .w600-DT { width: 600px; }
+
+    /* WIDTH IN PERCENT:*/
+/* **** */
+    .w-50-DT { width: 50%; }
+    .w-60-DT { width: 60%; }
+    .w-70-DT { width: 70%; }
+    .w-75-DT { width: 75%; }
+    .w-80-DT { width: 80%; }
+    .w-90-DT { width: 90%; }
+    .w-100-DT { width: 100%; }
+    .w-third-DT { width: calc( 100% / 3 ); }
+    .w-two-thirds-DT { width: calc( 100% / 1.5 ); }
+
+    /* COLORS */
+    .pink-DT{ color: pink;}
+    .red-DT{ color: red;}
+    .tomato-DT{ color: tomato;}
+    .orange-DT{ color: orange;}
+
+    .bg-pink-DT{ background: pink;}
+    .bg-red-DT{ background: red;}
+    .bg-tomato-DT{ background: tomato;}
+    .bg-orange-DT{ background: orange;}
+    .bg-gold-DT{ background: gold;}
+
+    /* on PARENT: */
+    .flex-DT {display: flex;}
+    /* on CHILD: */
+    .justify-center-DT {justify-content:center;}
+    .items-center-DT {align-items:center;}
+ 
+}
