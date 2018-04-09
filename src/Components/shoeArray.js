@@ -46,7 +46,7 @@ const shoeArray = [
   color: "White",
   code: "575420 009",
   year: 2018,
-  makeColor: "var(--gray6)",
+  makeColor: "var(--gray5)",
 },
 // {
 //   img: imageArray[4],
@@ -102,7 +102,7 @@ const shoeArray = [
   color: "White",
   code: "575420 009",
   year: 2018,
-  makeColor: "var(--gray6)",
+  makeColor: "var(--gray5)",
 },
 {
   img: imageArray[9],
@@ -166,7 +166,7 @@ const shoeArray = [
   color: "White",
   code: 'AQ0996 001',
   year: 2018,
-  makeColor: "var(--gray6)",
+  makeColor: "var(--gray5)",
 },
 {
   img: imageArray[15],
@@ -256,7 +256,7 @@ const shoeArray = [
   color: "Golden Harvest",
   code: "384664 705",
   year: 2017,
-  makeColor: "var(--yellow6)",
+  makeColor: "var(--orange8)",
 },
 {
   img: imageArray[24],
@@ -266,7 +266,7 @@ const shoeArray = [
   color: "White",
   code: "AJ0818 100",
   year: 2018,
-  makeColor: "var(--gray6)",
+  makeColor: "var(--gray5)",
 },
 {
   img: imageArray[25],
