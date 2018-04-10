@@ -2,6 +2,7 @@ import React from 'react';
 import './KithLogo.css';
 import styled from 'styled-components';
 
+
 const Svg = styled.svg`
   width: 100px;
   transition: all .4s ease;

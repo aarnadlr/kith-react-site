@@ -32,8 +32,8 @@ const Container = styled.div`
     margin-right: 5rem;
   }
   @media ${screen.width1200} {
-    margin-left: 9rem;
-    margin-right: 9rem;
+    /* margin-left: 9rem;
+    margin-right: 9rem; */
   }
 `
 

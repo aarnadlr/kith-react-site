@@ -27,13 +27,13 @@ const TopFixedNav = () => (
 
   <Container className='flex justify-end items-center'>
 
-  <div id="SearchSet" className='flex items-center hoverMagenta'>
-    <p className='mr2 f7 navItem ' >Search</p>
-    <FontAwesomeIcon className='mr4 f7 navItem ' icon="search"/>
+  <div id="SearchSet" className='gray flex items-center hoverMagenta'>
+    <p className=' mr2 f7 navItem ' >Search</p>
+    <FontAwesomeIcon className=' mr4 f7 navItem ' icon="search"/>
   </div>
 
-    <FontAwesomeIcon className='mr4 f7 navItem hoverMagenta' icon="user"/>
-    <FontAwesomeIcon className='mr4 f7 navItem hoverMagenta' icon="shopping-cart"/>
+    <FontAwesomeIcon className='gray mr4 f7 navItem hoverMagenta' icon="user"/>
+    <FontAwesomeIcon className='gray mr4 f7 navItem hoverMagenta' icon="shopping-cart"/>
 
 
   </Container>
