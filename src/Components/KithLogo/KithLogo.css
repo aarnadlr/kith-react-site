@@ -1,0 +1,6 @@
+.hoverMagenta{
+  transition: all .4s ease;
+}
+.hoverMagenta:hover{
+  color: magenta;
+}

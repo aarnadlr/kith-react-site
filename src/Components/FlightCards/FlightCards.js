@@ -5,7 +5,7 @@ import { screen } from '../../css/media-queries';
 import styled from 'styled-components';
 import '../../css/palx/palx-master.css';
 // import classNames from 'classnames';
-var classNames = require('classnames');
+// var classNames = require('classnames');
 
 const uuidv4 = require('uuid/v4');
 
@@ -95,16 +95,9 @@ font-size: .9rem;
 `;
 
 const Color = styled.p`
-  /* display: inline-block; */
-  /* float: left; */
   font-size: .8rem;
     font-weight: 600;
-    /* font-weight: 800; */
   color: ${(props) => props.makeColor};
-  /* padding: .5rem .7rem; */
-  /* border: 2px solid ${(props) => props.makeColor}; */
-  /* border-radius:7px; */
-
 `;
 
 const BuyNow = styled.span`

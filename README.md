@@ -1,6 +1,6 @@
-# 👟👟💰🔥 Kith-react-site 🔥💰👟👟
+# 👟👟💰🔥 kith-react-site 🔥💰👟👟
 
-##Kith sneaker store, built with React, Webpack, styled-components 💅, tachyons, and more.
+## Kith sneaker store, built with ⚛️ React, 🛄 Webpack, 💅 styled-components, 🗄 CSS Grid, tachyons, and more. 
 
 
 Each shoe datapoint and shoe image is retrieved from a javascript array, and passed from parent to child component via props.
