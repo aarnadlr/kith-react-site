@@ -10,7 +10,7 @@ import './css/entry.css';
 class App extends Component {
   render() {
     return (
-      <div className="">
+      <div >
         <TopFixedNav />
         <Header />
         <FlightCards shoes={shoeArray} />
