@@ -778,8 +778,20 @@
   }
 }
 
-.translateUpIn{
-  animation: translateUpIn 1s ease;
+.translateUpIn1{
+  animation: 1s ease 0s translateUpIn;
+  /* animation-fill-mode: forwards; */
+}
+.translateUpIn2{
+  animation: 1s ease .2s translateUpIn;
+  /* animation-fill-mode: forwards; */
+}
+.translateUpIn3{
+  animation: 1s ease .4s translateUpIn;
+  /* animation-fill-mode: forwards; */
+}
+.translateUpIn4{
+  animation: 1s ease .6s translateUpIn;
   /* animation-fill-mode: forwards; */
 }
 @keyframes translateUpIn {
