@@ -82,7 +82,6 @@ const Footer = (props) => (
         <a href='https://www.instagram.com/kith/'><FontAwesome className='grow-large'   size='2x' icon={["fab", "instagram"]}/></a>
         <a href='https://twitter.com/kithset'><FontAwesome className='grow-large'       size='2x' icon={["fab", "twitter"]}/></a>
         </div>
-        
       </div>
 
   </Container>
