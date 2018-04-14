@@ -22,25 +22,34 @@
 //   desktopL: `(min-width: ${width.desktop})`
 // };
 
+// USAGE:
+// @media ${screen.width700} {
+//   flex-wrap: nowrap;
+// }
+// @media ${screen.width800} {
+//  padding: 0 80px;
+// }
 
 const width = {
-  width1: '450px',
-  width2: '600px',
-  width3: '700px',
-  width4: '800px',
-  width5: '900px',
-  width6: '1000px',
-  width7: '1200px',
-  width8: '1400px'
+  width1: '400px',
+  width2: '500px',
+  width3: '600px',
+  width4: '700px',
+  width5: '800px',
+  width6: '900px',
+  width7: '1000px',
+  width8: '1200px',
+  width9: '1400px'
 }
 
 export const screen = {
-  width450: `(min-width: ${width.width1})`,
-  width600: `(min-width: ${width.width2})`,
-  width700: `(min-width: ${width.width3})`,
-  width800: `(min-width: ${width.width4})`,
-  width900: `(min-width: ${width.width5})`,
-  width1000: `(min-width: ${width.width6})`,
-  width1200: `(min-width: ${width.width7})`,
-  width1400: `(min-width: ${width.width8})`
+  width400: `(min-width: ${width.width1})`,
+  width500: `(min-width: ${width.width2})`,
+  width600: `(min-width: ${width.width3})`,
+  width700: `(min-width: ${width.width4})`,
+  width800: `(min-width: ${width.width5})`,
+  width900: `(min-width: ${width.width6})`,
+  width1000: `(min-width: ${width.width7})`,
+  width1200: `(min-width: ${width.width8})`,
+  width1400: `(min-width: ${width.width9})`
 };
