@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "name": "kith-store",
+  "alias": "kith",
+  "builds": [
+    { "src": "package.json", "use": "@now/static-build", "config": { "distDir": "build" } }
+  ]
+}
+
